@@ -13,4 +13,6 @@ __history
 *.apk
 bin/*
 *.bak
+Win32/*
+Win64/*
 
